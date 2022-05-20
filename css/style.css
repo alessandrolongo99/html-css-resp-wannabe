@@ -202,3 +202,10 @@ img {
         margin-bottom: 0;
     }
 }
+
+/* bonus */
+@media screen and (max-width: 1140px) {
+    .container{
+        width: 100%;
+    }
+}
